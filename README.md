@@ -16,7 +16,6 @@
 | **Dos videojuegos representativos** | **OutRun (SEGA, 1986)** y **Gran Turismo 5 Prologue (Polyphony Digital/Sony, 2007 en Japón y 2008 en Europa/Norteamérica)**. El primero consolidó la experiencia de conducción en arcade; el segundo tuvo un volante oficial diseñado junto con su desarrollador. [F6][F7] |
 | **Fuentes** | Páginas del museo The Strong, manual original de Atari, SEGA, Logitech, Thrustmaster y Gran Turismo. Enlaces completos al final. |
 
-> **Alcance histórico:** se estudia el volante como interfaz de juego, no la invención del volante del automóvil. Drive-Mobile es un antecedente electromecánico, no un videojuego. Gran Trak 10 es un hito de su incorporación al videojuego.
 
 ## 2. Historia: del mecanismo físico al simulador actual
 
@@ -31,8 +30,6 @@
 | **2020** | **G923 — Logitech G** | Introdujo TRUEFORCE, un sistema que utiliza información del motor de física y del audio para producir efectos hápticos en títulos compatibles. [F10] |
 | **2022** | **PRO Racing Wheel — Logitech G** | Su motor *direct drive* entrega hasta 11 N·m. El aro se acciona directamente desde el motor, en lugar de transmitir la fuerza mediante engranajes o correas. Es un ejemplo de esta tecnología, no su invención. [F11][F12] |
 | **2026, actualidad consultada** | **Ecosistemas de Logitech, Thrustmaster, Fanatec y MOZA** | Conviven tecnologías y gamas diferentes. El manual actual de Gran Turismo 7 lista modelos compatibles. Polyphony Digital anunció a MOZA como socio de periféricos de la Gran Turismo World Series el 28 de julio de 2026. [F5][F13] |
-
-**Criterio de fechas:** se conserva el estreno japonés de OutRun que publica SEGA. Algunos listados de museos utilizan 1987 para sus máquinas; no se sustituye con esa fecha el estreno original de 1986. Para Gran Turismo 5 Prologue, 2008 corresponde a Europa y Norteamérica, como indica el anuncio de Logitech. [F6][F7]
 
 ## 3. Cómo capta la acción del jugador
 
